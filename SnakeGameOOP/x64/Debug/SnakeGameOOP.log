@@ -1,0 +1,5 @@
+﻿  Food.cpp
+  SnakeGameOOP.cpp
+C:\Users\baoch\Downloads\SnakeGameOOP\SnakeGameOOP\Food.cpp(39,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  SnakeGameOOP.vcxproj -> C:\Users\baoch\Downloads\SnakeGameOOP\x64\Debug\SnakeGameOOP.exe

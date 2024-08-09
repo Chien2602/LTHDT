@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\SnakeGameOOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|solutionrelative:SnakeGameOOP\\SnakeGameOOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|solutionrelative:SnakeGameOOP\\Food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\GameBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|solutionrelative:SnakeGameOOP\\GameBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Mylib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|solutionrelative:SnakeGameOOP\\Mylib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|solutionrelative:SnakeGameOOP\\Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|solutionrelative:SnakeGameOOP\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|solutionrelative:SnakeGameOOP\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\GameBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89CDE5BD-6358-42B4-AD0D-B639BB9148C3}|SnakeGameOOP\\SnakeGameOOP.vcxproj|solutionrelative:SnakeGameOOP\\GameBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baoch\\Downloads\\SnakeGame\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 77,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cpp",
+              "DocumentMoniker": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Food.cpp",
+              "RelativeDocumentMoniker": "SnakeGameOOP\\Food.cpp",
+              "ToolTip": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Food.cpp",
+              "RelativeToolTip": "SnakeGameOOP\\Food.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T15:12:33.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameBoard.cpp",
+              "DocumentMoniker": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\GameBoard.cpp",
+              "RelativeDocumentMoniker": "SnakeGameOOP\\GameBoard.cpp",
+              "ToolTip": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\GameBoard.cpp",
+              "RelativeToolTip": "SnakeGameOOP\\GameBoard.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T14:26:00.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Snake.h",
+              "DocumentMoniker": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Snake.h",
+              "RelativeDocumentMoniker": "SnakeGameOOP\\Snake.h",
+              "ToolTip": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Snake.h",
+              "RelativeToolTip": "SnakeGameOOP\\Snake.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-26T13:04:11.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Snake.cpp",
+              "DocumentMoniker": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Snake.cpp",
+              "RelativeDocumentMoniker": "SnakeGameOOP\\Snake.cpp",
+              "ToolTip": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Snake.cpp",
+              "RelativeToolTip": "SnakeGameOOP\\Snake.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T12:53:05.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnakeGameOOP.cpp",
+              "DocumentMoniker": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\SnakeGameOOP.cpp",
+              "RelativeDocumentMoniker": "SnakeGameOOP\\SnakeGameOOP.cpp",
+              "ToolTip": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\SnakeGameOOP.cpp",
+              "RelativeToolTip": "SnakeGameOOP\\SnakeGameOOP.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T08:06:51.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mylib.cpp",
+              "DocumentMoniker": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Mylib.cpp",
+              "RelativeDocumentMoniker": "SnakeGameOOP\\Mylib.cpp",
+              "ToolTip": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Mylib.cpp",
+              "RelativeToolTip": "SnakeGameOOP\\Mylib.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T14:14:57.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.h",
+              "DocumentMoniker": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Food.h",
+              "RelativeDocumentMoniker": "SnakeGameOOP\\Food.h",
+              "ToolTip": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\Food.h",
+              "RelativeToolTip": "SnakeGameOOP\\Food.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-26T15:41:09.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameBoard.h",
+              "DocumentMoniker": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\GameBoard.h",
+              "RelativeDocumentMoniker": "SnakeGameOOP\\GameBoard.h",
+              "ToolTip": "C:\\Users\\baoch\\Downloads\\SnakeGameOOP\\SnakeGameOOP\\GameBoard.h",
+              "RelativeToolTip": "SnakeGameOOP\\GameBoard.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-26T14:26:02.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\baoch\\Downloads\\SnakeGame\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "..\\SnakeGame\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\baoch\\Downloads\\SnakeGame\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "..\\SnakeGame\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T09:26:17.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
